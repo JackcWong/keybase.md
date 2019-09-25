@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jackcwong on github.
+  * I am jackwong (https://keybase.io/jackwong) on keybase.
+  * I have a public key ASBZtMVaYRDsZzos_FWDfSuJ0auyPhYeJmNJ_IeF-4OaNAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012059b4c55a6110ec673a2cfc55837d2b89d1abb23e161e266349fc8785fb839a340a",
+      "host": "keybase.io",
+      "kid": "012059b4c55a6110ec673a2cfc55837d2b89d1abb23e161e266349fc8785fb839a340a",
+      "uid": "86c25f434b99bfad99935be227573a19",
+      "username": "jackwong"
+    },
+    "merkle_root": {
+      "ctime": 1569411367,
+      "hash": "82f80aef26619351b1153ffbd439a1993244dbeefbd787c63d39f982c4d5276177a6e956b9afb51423e1098210ab5325d99d13de076606936230ebc64e004f2c",
+      "hash_meta": "2db0f737d39026c256f1b41bbfe064485af32999eb5022c4356d90eb90291978",
+      "seqno": 7737668
+    },
+    "service": {
+      "entropy": "xX0DZ0pzoZVFtpC10NKTE1HI",
+      "name": "github",
+      "username": "jackcwong"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569411397,
+  "expire_in": 504576000,
+  "prev": "c10424d1f7c3039983e2f57a37baf8a31cbaf8d3bd7aacedc6b7253b5de2100c",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBZtMVaYRDsZzos_FWDfSuJ0auyPhYeJmNJ_IeF-4OaNAo](https://keybase.io/jackwong), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWbTFWmEQ7Gc6LPxVg30ridGrsj4WHiZjSfyHhfuDmjQKp3BheWxvYWTESpcCBMQgwQQk0ffDA5mD4vV6N7r4oxy6+NO9eqztxrclO13iEAzEIN0I/+8XEXN2c296GXZNymQ4TNyAYnWRgAFFVDISgsu0AgHCo3NpZ8RAh6RmnIc24d6ImcytQpR8HZuHdSvbyxFofohf36QDatYwSInTAYbU5tlJIB0Iv0lTLltU4I4Brt2KLpz1JZn9DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFrQCykedHHdw4Mod4NX6ue6u2FLkRcV3n0Oqt2Rg1Cco3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jackwong
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jackwong
+```
